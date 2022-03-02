@@ -9,33 +9,38 @@ body {
   color: black;
   font-family: arial;
   font-family: 'Artifika', serif;
+  font-size: 14px;
 }
 
 h1 {
   color: pink;
   background-color: white;
+  font-size: 36px;
+  text-align: centre;
 }
 
 h2 {
   color: pink;
+  font-size: 24px;
 }
 
 h3 {
-  color: orange;
+    font-size: 18px:
 }
 
-h4 {
-  color: grey;
+header {
+  background-color: yellow;
 }
 
-h5 {
-  color: green;
+ol {
+  background-color: green;
 }
 
-h6 {
-  color: black;
+ul {
+  background-color: pink;
 }
 
-<body: {
-  color: yellow;
+h1, h2, h3 {
+  font-weight: 700;
+  font-style: normal;
 }
