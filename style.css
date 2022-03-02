@@ -5,15 +5,16 @@
 }
 
 body {
-  background-color: green;
+  background-color: tan;
   color: black;
   font-family: arial;
   font-family: 'Artifika', serif;
   font-size: 14px;
 }
 
+<header>
 h1 {
-  color: pink;
+  color: blue;
   background-color: white;
   font-size: 36px;
   text-align: centre;
@@ -29,7 +30,7 @@ h3 {
 }
 
 header {
-  background-color: yellow;
+  background-color: pink;
 }
 
 ol {
