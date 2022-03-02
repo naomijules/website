@@ -1,37 +1,37 @@
 /* Website styles */
 
 body {
-  background-color: teel;
+  background-color: aqua;
   color: black;
   font-family: arial;
   font-family: 'Artifika', serif;
 }
 
-h1{
+h1 {
   color: pink;
   background-color: white;
 }
 
-h2{
+h2 {
   color: pink;
 }
 
-h3{
+h3 {
   color: orange;
 }
 
-h4{
+h4 {
   color: grey;
 }
 
-h5{
+h5 {
   color: green;
 }
 
-h6{
+h6 {
   color: black;
 }
 
-<body:{
+<body: {
   color: yellow;
 }
