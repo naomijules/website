@@ -8,17 +8,17 @@
 }
 
 body {
-  background-color: tan;
+  background-color: #ffd9d9;
   color: black;
   font-family: arial;
   /* font-family: 'Artifika', serif; */
   font-size: 14px;
-  margin: 50px;
+  margin: 40px;
 }
 
 <header>
 h1 {
-  color: blue;
+  color: red;
   background-color: white;
   font-size: 35px;
   text-align: centre;
@@ -52,7 +52,7 @@ h1, h2, h3 {
   font-weight: 700;
   font-style: normal;
   margin-bottom: 20px;
-  border: 1px solid black;
+  /* border: 1px solid black; */
 }
 
 p {
@@ -60,13 +60,13 @@ p {
   color: black;
   text-align: justify;
   margin: 15px 0;
-  border: 1px dotted black;
+  /* border: 1px solid black; */
   padding: 30px;
 }
 
 ul, ol {
   margin: 15px 0;
-  /* border: 1px solid black */
+  /* border: 1px solid black; */
   padding: 30px;
 }
 
