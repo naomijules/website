@@ -5,6 +5,7 @@
   /* border: 1px solid red; */
   margin: 0;
   line-height: 1;
+  box-sizing: border-box;
 }
 
 body {
@@ -81,10 +82,15 @@ a {
 
 a:hover {
   text-decoration: underline;
+  /* background-color: red; */
 }
 
 a:visited {
   color: grey;
+}
+
+img {
+  width: 20%;
 }
 
 .title {
