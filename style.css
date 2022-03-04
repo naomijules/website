@@ -127,3 +127,12 @@ div {
   background-size: cover;
   background-position: center;
 }
+
+.banner h1 {
+  color: white;
+  padding: 20px;
+}
+
+.main {
+  margin: 50px;
+}
