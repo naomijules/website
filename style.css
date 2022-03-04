@@ -60,7 +60,6 @@ h1, h2, h3 {
 p {
   line-height: 2;
   color: black;
-  text: bold;
   text-align: justify;
   margin: 15px 0;
   /* border: 1px solid black; */
