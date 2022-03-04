@@ -9,7 +9,7 @@
 }
 
 body {
-  /* background-color: #ffd9d9; */
+  background-color: #ffd9d9;
   color: black;
   font-family: arial;
   /* font-family: 'Artifika', serif; */
@@ -123,7 +123,7 @@ div {
 
 .banner {
   height: 200px;
-  /* background-image: url(images/ricepaper.png); */
+  background-image: url(images/ricepaper.png);
   background-size: cover;
   background-position: center;
 }
