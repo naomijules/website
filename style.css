@@ -150,3 +150,12 @@ nav {
   height: 80px;
   background-color: black;
 }
+
+.logo {
+  color: #fff;
+  padding-left: 30px;
+  position: absolute;
+  font-family: serif;
+  font-size: 30pt;
+  font-style: italic;
+}
