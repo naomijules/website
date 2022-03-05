@@ -131,6 +131,7 @@ div {
 .banner h1 {
   color: black;
   padding: 20px;
+  text-align: center;
 }
 
 .main {
