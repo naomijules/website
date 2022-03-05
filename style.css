@@ -80,6 +80,7 @@ header h1 {
 a {
   color: blue;
   text-decoration: none;
+  text-size: 20px; 
 }
 
 a:hover {
