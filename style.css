@@ -45,7 +45,7 @@ header {
 
 ol {
   background-color: pink;
-  
+
 }
 
 ul {
@@ -115,7 +115,7 @@ img {
 }
 
 .container {
-  max-width: 1000px;
+  max-width: 500px;
   margin: 0 auto;
 }
 
