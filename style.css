@@ -44,7 +44,7 @@ header {
 }
 
 ol {
-  /* background-color: pink; */
+  background-color: pink;
 }
 
 ul {
@@ -120,7 +120,6 @@ img {
 
 div {
   margin: 0 auto;
-  text-align: center:
 }
 
 .banner {
